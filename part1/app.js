@@ -8,7 +8,7 @@ const PORT = 8080;
 const dbConfig = {
     host: 'localhost',
     user: 'root',
-    password: '3190789', 
+    password: '', 
     database: 'DogWalkService'
 };
 
